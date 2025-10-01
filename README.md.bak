@@ -1,0 +1,17 @@
+# FreeFire Items API
+
+API لإرسال العناصر إلى لعبة FreeFire باستخدام access token.
+
+## المميزات
+
+- تحويل access token إلى JWT تلقائياً
+- إرسال 15 عنصر إلى حساب FreeFire
+- دعم تشفير AES للبيانات
+- واجهة RESTful بسيطة
+
+## التثبيت
+
+1. استنسخ المشروع:
+```bash
+git clone https://github.com/your-username/freefire-items-api.git
+cd freefire-items-api

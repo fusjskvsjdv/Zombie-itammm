@@ -1,0 +1,7 @@
+Flask
+requests
+pycryptodome
+protobuf
+Werkzeug
+gunicorn
+python-dotenv
